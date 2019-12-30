@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2eb6af10-261e-41c4-8997-e9c82326d827" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +76,7 @@
       <workItem from="1576854634842" duration="10279000" />
       <workItem from="1576935111135" duration="3177000" />
       <workItem from="1577458524940" duration="829000" />
-      <workItem from="1577459699086" duration="21177000" />
+      <workItem from="1577459699086" duration="22089000" />
     </task>
     <task id="LOCAL-00001" summary="added travis file">
       <created>1577536266937</created>
@@ -156,7 +155,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577736469883</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Various changes">
+      <created>1577738947747</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1577738947747</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -174,7 +180,8 @@
     <MESSAGE value="Added EXPOSE statement" />
     <MESSAGE value="Readded quotes around port mapping" />
     <MESSAGE value="Changed to port 80" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changed to port 80" />
+    <MESSAGE value="Various changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Various changes" />
   </component>
   <component name="WindowStateProjectService">
     <state x="402" y="0" key="#Dockerfile.dev" timestamp="1576935174058">
@@ -189,18 +196,18 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="363" y="98" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.738@0.0.1366.738" timestamp="1577458755050" />
-    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1577736467943">
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1577738946080">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1577736467943" />
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1577738946080" />
     <state x="184" y="12" key="SettingsEditor" timestamp="1576857527465">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="184" y="12" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1576857527465" />
-    <state x="275" y="103" key="Vcs.Push.Dialog.v2" timestamp="1577736489144">
+    <state x="275" y="103" key="Vcs.Push.Dialog.v2" timestamp="1577739070449">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="275" y="103" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1577736489144" />
+    <state x="275" y="103" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1577739070449" />
     <state x="378" y="194" key="com.intellij.ide.util.TipDialog" timestamp="1577459731458">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
